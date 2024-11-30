@@ -1,10 +1,10 @@
 # 💫 About Me:
  <h1 align="center">Hi 👋, I'm Muzaffar Khan</h1>
 
-<h3 align="center">A Java Trainee currently working in "ZKTeco India" who focuses on writing clean and efficient code, having problem-solving attitude and  always up for new challenges. </h3>
+<h3 align="center">A Java Developer currently working in "ZKTeco India" who focuses on writing clean and efficient code, having problem-solving attitude and  always up for new challenges. </h3>
 <h3 align="center">Worked through six months of coding in various tech stacks such as Java, Spring Boot, MySql, HTML5, CSS3 and Javascript.</h3>
 🌍 I'm based in Bangalore, India
-- 🌱 I’m currently working in [**ZKTeco India**](https://www.zkteco.in/) as "Java Trainee"
+- 🌱 I’m currently working in [**ZKTeco India**](https://www.zkteco.in/) as "Java Developer"
 
 
 - 📫 How to reach me **muzaffarkhan2026@gmail.com**
